@@ -1,0 +1,13 @@
+# Science East Volunteering Code
+
+This is just a grouping of code that I brought together and adjusted to fit needs for Science East. 
+Science East is my local STEM center, which I try and help out with.
+
+The repo holds all thing that I have created for them:
+
+  - Person Tracking: 
+    - This was a webpage that live streamed on port 80, and ran a caffemodel for facial detection. It then would store the faces. All of this was to demo that techology can easily be watching us all the time!
+  - TOADD: Light Music  
+- Scripts:
+  - resizeTiff.py : resizes a tiff image using opencv and writes it as a png. Did you know that printer mess up if the image is too high resolution?
+
